@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Envelope",
+  "name": "Static Envelope React",
   "icons": [
     {
       "src": "favicon.ico",
